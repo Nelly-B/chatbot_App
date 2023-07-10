@@ -1,0 +1,6 @@
+"Hi",
+"Hi, there",
+"What's  your name?",
+"I'm just a chatbot",
+"What is your favourite food",
+"I like cheese",
